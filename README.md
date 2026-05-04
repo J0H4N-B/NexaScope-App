@@ -1,4 +1,4 @@
-# 📊 Visualizador de Dispersión 3D de Ventas
+# 📊 NexaScope — Visualizador de Dispersión 3D de Ventas
 
 Dashboard interactivo que permite **subir cualquier CSV**, configurar qué columnas
 se muestran en cada eje del gráfico 3D y explorar correlaciones con filtros dinámicos.
